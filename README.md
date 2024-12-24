@@ -1,4 +1,4 @@
-Hendyco Pratama
+Pharmacophore and QSAR
 ---
 This project showcases the workflow of pharmacophore modeling, molecular feature extraction, and QSAR (Quantitative Structure-Activity Relationship) modeling to predict the binding energy of ligands. The project covers molecular visualization, feature extraction, and binding energy prediction using machine learning models.
 
